@@ -1,0 +1,19 @@
+{
+  "name": "mhealth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neverdull/mhealth.git"
+  },
+  "author": "Never Dull",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neverdull/mhealth/issues"
+  },
+  "homepage": "https://github.com/neverdull/mhealth#readme"
+}
